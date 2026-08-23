@@ -4,6 +4,12 @@
 - Deep Dive into LLMs like ChatGPT — Karpathy
   https://www.youtube.com/watch?v=7xTGNNLPyMI
 
+## 第 0.5 步：3Blue1Brown 神经网络系列（可视化补充，穿插在第 1 步第 7 集前后看）
+- 播放列表: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- 重点看:
+  - Transformers (how LLMs work) https://www.youtube.com/watch?v=wjZofJX0v4M
+  - Attention in transformers   https://www.youtube.com/watch?v=eMlx5fFNoYc
+
 ## 第 1 步：Karpathy《Neural Networks: Zero to Hero》（按顺序敲代码）
 - 课程主页: https://karpathy.ai/zero-to-hero.html
 - 官方播放列表（下载用这个最省事）:
@@ -48,7 +54,8 @@
 - MS Generative AI for Beginners: https://github.com/microsoft/generative-ai-for-beginners
 - MS AI Agents for Beginners:     https://github.com/microsoft/ai-agents-for-beginners
 
-## 第 5 步：post-training 技术报告（学完直接读）
+## 第 5 步：post-training（先读书，再读论文）
+- RLHF Book — Nathan Lambert（免费，比直接啃论文平滑）: https://rlhfbook.com
 - DeepSeek-R1: https://arxiv.org/abs/2501.12948
 - Tülu 3:      https://arxiv.org/abs/2411.15124
 - InstructGPT（RLHF 起点）: https://arxiv.org/abs/2203.02155
