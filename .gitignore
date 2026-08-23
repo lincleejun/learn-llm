@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.mp4
+*.webm
+*.mkv
+*.bin
+*.pt
+*.safetensors
+data/
