@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/zero-2-hero/.venv/bin/python"
+}
